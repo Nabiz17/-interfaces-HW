@@ -1,4 +1,4 @@
-
+// реализуйте их в классе "Супермен" Superman.
 public class Supermen implements interfaces.CanFly, interfaces.CanRun, interfaces.CanSwim {
   @Override
   public void fly() {
