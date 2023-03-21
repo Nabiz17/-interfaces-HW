@@ -1,4 +1,4 @@
-public class Penguin implements interfaces.CanRun, interfaces.CanSwim {
+public class Penguin implements CanRun, CanSwim {
 
   @Override
   public void run() {

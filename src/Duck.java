@@ -1,4 +1,4 @@
-public class Duck implements interfaces.CanFly, interfaces.CanRun, interfaces.CanSwim {
+public class Duck implements CanFly, CanRun, CanSwim {
   @Override
   public void fly() {
     System.out.println("Утка летит");

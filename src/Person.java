@@ -1,4 +1,4 @@
-public class Person implements interfaces.CanRun, interfaces.CanSwim {
+public class Person implements CanRun, CanSwim {
 
   @Override
   public void run() {

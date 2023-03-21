@@ -1,5 +1,5 @@
 // реализуйте их в классе "Супермен" Superman.
-public class Supermen implements interfaces.CanFly, interfaces.CanRun, interfaces.CanSwim {
+public class Supermen implements CanFly, CanRun, CanSwim {
   @Override
   public void fly() {
     System.out.println("Супермен летит");
